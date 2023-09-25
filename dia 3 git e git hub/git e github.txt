@@ -1,0 +1,3 @@
+Git: Ferramenta padrão para versionamento de código(é um repositório)
+armazena uma alteração no banco de dados para caso seja necessário restaurar ver ou usar  a versão anterior.
+github: Ferramenta de repositório remoto para que as pessoas possam ver o seu git. por exemplo todos tem alterações do código salvas no git da sua máquina e depois mandam tudo pro repositório remoto que junta essas alterações

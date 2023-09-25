@@ -1,0 +1,12 @@
+cd se mover entre as pastar
+ex: cd docmeents
+
+dir ver as pastar
+
+mkdir criar novas pastas
+ex: mkdir nome da pasta 
+parar criar nome com espaço usar aspas duplas ""
+
+cd .. usado pra voltar na pasta anterior
+
+cls limpar o cmd
