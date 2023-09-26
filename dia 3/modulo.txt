@@ -1,0 +1,9 @@
+% modulo é igual o resto da divisão
+10 % 3 = 1 
+no caso o resto é 1
+
+parseInt() indica para o promp que a o valor digitado vai ser numero inteiro ou nulo
+
+number() é usado para transformar em numerico, ou seja pra ter numeros não inteiros com virculos/decimais/quebrados
+
+
