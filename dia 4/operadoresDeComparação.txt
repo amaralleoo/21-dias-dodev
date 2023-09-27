@@ -1,0 +1,17 @@
+== comparar valores / igual
+2 == 2 
+True
+
+!= diferente
+2 != 2 false
+> maior e < menor ou >= <=
+2 > 3 false
+2 < 3 true
+
+2 >= 2 true
+3 <= 2 false
+
+=== compara os valores e o tipo string, bool, num etc
+
+!== é diferente  o valor e o tipo
+2 !== '2' true

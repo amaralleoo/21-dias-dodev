@@ -1,0 +1,13 @@
+Escopo
+var não respeita o escopo
+escopo é iniciado sempre que se abre chaves {}
+
+&& serve para comparar duas condições, requer que as DUAS condições sejam verdadeiras
+
+2 === 2 && 3 === 3 true
+2 === 2 && 3 === 4 false
+
+OU = || requer que UMA das condições retorne verdadeiro
+
+2 === 2 || 3 === 4 true
+
