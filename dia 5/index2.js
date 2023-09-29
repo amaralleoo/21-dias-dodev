@@ -19,4 +19,6 @@ switch(posto){
 
   default:
     console.log('Você não informou o que deseja')
+    break;
 }
+
